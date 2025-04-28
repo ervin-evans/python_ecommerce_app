@@ -1,0 +1,29 @@
+# Entornos virtuales
+venv/
+env/
+.env
+
+# Archivos de base de datos locales
+*.db
+
+# Configuración del IDE
+.vscode/
+.idea/
+
+# Caché de Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Archivos de logs
+logs/
+*.log
+
+# Dependencias específicas
+*.egg-info/
+dist/
+build/
+
+# Archivos de entorno y seguridad
+.env
